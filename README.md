@@ -1,2 +1,2 @@
-# emotion-detection-ai
-Emotion Detection AI using CNN trained on FER2013 dataset with Streamlit web app.
+## Live Demo
+https://emotion-detection-ai-alamgir.streamlit.app
