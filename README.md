@@ -45,22 +45,22 @@ The model:
 ---
 
 ### 🏠 Home Page
-<img src="screenshots/home.png" width="800">
+<img src="Screenshots/home.png" width="800">
 
 ---
 
 ### 📂 Upload Image
-<img src="screenshots/upload.png" width="800">
+<img src="Screenshots/upload.png" width="800">
 
 ---
 
 ### 🎯 Prediction Result
-<img src="screenshots/result.png" width="800">
+<img src="Screenshots/result.png" width="800">
 
 ---
 
 ### 📊 Confidence Graph
-<img src="screenshots/chart.png" width="800">
+<img src="Screenshots/chart.png" width="800">
 
 ---
 
