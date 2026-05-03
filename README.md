@@ -42,12 +42,25 @@ The model:
 ## 🖥️ Demo (How it looks)
 
 ## 📸 Screenshots
+---
 
 ### 🏠 Home Page
-![Home](screenshots/home.png)
+<img src="screenshots/home.png" width="800">
 
-### 📊 Prediction Result
-![Result](screenshots/result.png)
+---
+
+### 📂 Upload Image
+<img src="screenshots/upload.png" width="800">
+
+---
+
+### 🎯 Prediction Result
+<img src="screenshots/result.png" width="800">
+
+---
+
+### 📊 Confidence Graph
+<img src="screenshots/chart.png" width="800">
 
 ---
 
