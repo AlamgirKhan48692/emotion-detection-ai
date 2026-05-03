@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="Screenshots/demo.png" width="100%">
+</p>
+
 # 😄 Emotion Detection AI using CNN (TensorFlow + Streamlit)
 
 ## Live Demo
