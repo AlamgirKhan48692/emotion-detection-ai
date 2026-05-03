@@ -1,7 +1,7 @@
+# 😄 Emotion Detection AI using CNN (TensorFlow + Streamlit)
+
 ## Live Demo
 https://emotion-detection-ai-alamgir.streamlit.app
-
-# 😄 Emotion Detection AI (CNN + Streamlit)
 
 An AI-powered web app that detects human emotions from facial images using a Convolutional Neural Network (CNN).
 
