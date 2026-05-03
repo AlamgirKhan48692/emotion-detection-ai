@@ -41,7 +41,13 @@ The model:
 
 ## 🖥️ Demo (How it looks)
 
-Upload an image → AI predicts emotion + shows confidence graph.
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home](screenshots/home.png)
+
+### 📊 Prediction Result
+![Result](screenshots/result.png)
 
 ---
 
@@ -63,8 +69,8 @@ Upload an image → AI predicts emotion + shows confidence graph.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/AlamgirKhan48692/emotion-detection-ai.git
+
 ```
 
 ### 2. Install dependencies
@@ -128,7 +134,9 @@ streamlit run app.py
 
 ## 👨‍💻 Author
 
-Alamgir Khan
+**Alamgir Khan**  
+📘 GitHub: https://github.com/AlamgirKhan48692  
+🌐 Live App: https://emotion-detection-ai-alamgir.streamlit.app
 
 ---
 
